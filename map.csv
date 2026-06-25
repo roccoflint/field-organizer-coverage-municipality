@@ -5,7 +5,7 @@ Bellingham,true,1
 Blackstone,false,0
 Brookline,true,1
 Dighton,true,2
-Dover,false,0
+Dover,true,1
 Fall River,true,1
 Foxborough,true,1
 Franklin,true,1
@@ -13,10 +13,10 @@ Freetown,false,0
 Hopedale,false,0
 Lakeville,true,1
 Mansfield,true,1
-Medfield,false,0
+Medfield,true,1
 Mendon,false,0
 Milford,true,1
-Millis,false,0
+Millis,true,1
 Millville,false,0
 Needham,false,0
 Newton,true,1
@@ -28,9 +28,9 @@ Raynham,true,1
 Rehoboth,true,2
 Seekonk,false,0
 Sharon,true,1
-Sherborn,false,0
+Sherborn,true,1
 Somerset,true,1
 Swansea,true,1
 Taunton,false,0
-Wellesley,false,0
+Wellesley,true,1
 Wrentham,true,1
