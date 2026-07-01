@@ -5,16 +5,16 @@ Bellingham,true,1,
 Blackstone,false,0,
 Brookline,true,1,
 Dighton,true,2,
-Dover,false,0,
+Dover,false,0,No engagement
 Fall River,true,1,
 Foxborough,true,1,
 Franklin,true,1,
-Freetown,false,0,
-Hopedale,false,0,
-Lakeville,true,1,
+Freetown,false,0,No engagement
+Hopedale,false,0,No engagement
+Lakeville,true,1,No engagement
 Mansfield,true,1,
-Medfield,false,0,
-Mendon,false,0,
+Medfield,false,0,No engagement
+Mendon,false,0,No engagement
 Milford,true,1,
 Millis,false,0,
 Millville,false,0,
@@ -23,14 +23,14 @@ Newton,true,1,
 Norfolk,false,0,
 North Attleborough,true,1,
 Norton,true,1,
-Plainville,true,1,
+Plainville,true,1,No engagement
 Raynham,true,1,
 Rehoboth,true,2,
-Seekonk,false,0,
+Seekonk,false,0,No engagement
 Sharon,true,1,
 Sherborn,false,0,
 Somerset,true,1,
 Swansea,true,1,No engagement
 Taunton,false,0,
-Wellesley,false,0,
-Wrentham,true,1,
+Wellesley,false,0,No engagement
+Wrentham,true,1,No engagement
