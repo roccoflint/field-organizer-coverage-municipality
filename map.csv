@@ -1,36 +1,36 @@
-Municipality,Covered,Number of Organizers,Group thread status
-Attleboro,true,1,Active
-Berkley,true,1,
-Bellingham,true,1,No engagement
-Blackstone,false,0,
-Brookline,true,1,
-Dighton,true,2,Minimal
-Dover,false,0,No engagement
-Fall River,true,1,Active
-Foxborough,true,1,No engagement
-Franklin,true,1,Active
-Freetown,false,0,No engagement
-Hopedale,false,0,No engagement
-Lakeville,true,1,No engagement
-Mansfield,true,1,Minimal
-Medfield,false,0,No engagement
-Mendon,false,0,No engagement
-Milford,true,1,No engagement
-Millis,false,0,
-Millville,false,0,
-Needham,false,0,
-Newton,true,1,
-Norfolk,false,0,
-North Attleborough,true,1,
-Norton,true,1,No engagement
-Plainville,true,1,No engagement
-Raynham,true,1,
-Rehoboth,true,2,No engagement
-Seekonk,false,0,No engagement
-Sharon,true,1,No engagement
-Sherborn,false,0,
-Somerset,true,1,
-Swansea,true,1,No engagement
-Taunton,false,0,No engagement
-Wellesley,false,0,No engagement
-Wrentham,true,1,No engagement
+Municipality,Covered,Number of Organizers,Group thread status,Group thread notes
+Attleboro,true,1,Active,
+Berkley,true,1,,
+Bellingham,true,1,No engagement,
+Blackstone,false,0,,
+Brookline,true,1,,
+Dighton,true,2,Minimal,
+Dover,false,0,No engagement,
+Fall River,true,1,Active,
+Foxborough,true,1,No engagement,
+Franklin,true,1,Active,
+Freetown,false,0,No engagement,
+Hopedale,false,0,No engagement,
+Lakeville,true,1,No engagement,
+Mansfield,true,1,Minimal,
+Medfield,false,0,No engagement,
+Mendon,false,0,No engagement,
+Milford,true,1,No engagement,
+Millis,false,0,,
+Millville,false,0,,
+Needham,false,0,Minimal,
+Newton,true,1,,
+Norfolk,false,0,,
+North Attleborough,true,1,,
+Norton,true,1,No engagement,
+Plainville,true,1,No engagement,
+Raynham,true,1,,
+Rehoboth,true,2,No engagement,
+Seekonk,false,0,No engagement,
+Sharon,true,1,No engagement,
+Sherborn,false,0,,
+Somerset,true,1,,
+Swansea,true,1,No engagement,
+Taunton,false,0,No engagement,
+Wellesley,false,0,No engagement,
+Wrentham,true,1,No engagement,
