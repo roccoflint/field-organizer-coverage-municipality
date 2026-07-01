@@ -1,13 +1,13 @@
 Municipality,Covered,Number of Organizers,Group thread status
 Attleboro,true,1,
 Berkley,true,1,
-Bellingham,true,1,
+Bellingham,true,1,No engagement
 Blackstone,false,0,
 Brookline,true,1,
 Dighton,true,2,
 Dover,false,0,No engagement
 Fall River,true,1,
-Foxborough,true,1,
+Foxborough,true,1,No engagement
 Franklin,true,1,
 Freetown,false,0,No engagement
 Hopedale,false,0,No engagement
@@ -22,12 +22,12 @@ Needham,false,0,
 Newton,true,1,
 Norfolk,false,0,
 North Attleborough,true,1,
-Norton,true,1,
+Norton,true,1,No engagement
 Plainville,true,1,No engagement
 Raynham,true,1,
-Rehoboth,true,2,
+Rehoboth,true,2,No engagement
 Seekonk,false,0,No engagement
-Sharon,true,1,
+Sharon,true,1,No engagement
 Sherborn,false,0,
 Somerset,true,1,
 Swansea,true,1,No engagement
